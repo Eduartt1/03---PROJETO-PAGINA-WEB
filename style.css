@@ -7,7 +7,7 @@ html {
 /* back fundo */
 body {
     height: 100vh;
-    background-image: url('./IMAGENS/BACK/back\ site.jpg');
+    background-image: url('./imagens/back/backsite.jpg');
     background-color: darkblue;
     background-position: center;
     background-size: cover;
@@ -29,7 +29,7 @@ header {
     padding: 10px 0;
     position: fixed;
     top: 0;
-    background-image: url('./IMAGENS/BARRAMENU/back_site1.jpg');
+    background-image: url('./imagens/barramenu/backsite1.jpg');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -83,32 +83,32 @@ header {
 }
 
 .s1 {
-    background-image: url('./IMAGENS/HOME/barra\ principal.jpg');
+    background-image: url('./imagens/home/barraprincipal.jpg');
     animation-delay: 0s;
 }
 
 .s2 {
-    background-image: url('./IMAGENS/HOME/barra\ principal\ 2.jpg');
+    background-image: url('./imagens/home/barraprincipal2.jpg');
     animation-delay: 4s;
 }
 
 .s3 {
-    background-image: url('./IMAGENS/HOME/barra\ principal\ 3.jpg');
+    background-image: url('./imagens/home/barraprincipal3.jpg');
     animation-delay: 8s;
 }
 
 .s4 {
-    background-image: url('./IMAGENS/HOME/barra\ principal\ 4.jpg');
+    background-image: url('./imagens/home/barraprincipal4.jpg');
     animation-delay: 12s;
 }
 
 .s5 {
-    background-image: url('./IMAGENS/HOME/barra\ principal\ 5.jpg');
+    background-image: url('./imagens/home/barraprincipal5.jpg');
     animation-delay: 12s;
 }
 
 .s6 {
-    background-image: url('./IMAGENS/HOME/barra\ principal\ 6.jpg');
+    background-image: url('./imagens/home/barraprincipal6.jpg');
     animation-delay: 12s;
 }
 
@@ -209,7 +209,7 @@ header {
 }
 
 .inf_resumo {
-    background-image: url(./IMAGENS/BARRAMENU/PRETO_NEVE.jpg);
+    background-image: url('./imagens/barramenu/pretoneve.jpg');
     border: 2px solid #1D7FB3;
     color: white;
     max-width: 800px;
